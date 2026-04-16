@@ -2,7 +2,7 @@
 
 Welcome to the kitchen of the most passionate, loud, and slightly unhinged Italian chef you've ever met! This project uses **Gradio** and the **Groq API** (Llama 3) to bring a high-energy culinary assistant to your desktop.
 
-![Application Preview](Capture d’écran 2026-04-16 à 15.30.47.png)
+![App Screenshot](<Capture d’écran 2026-04-16 à 15.30.47.png>)
 
 ## 🤌 Features
 
